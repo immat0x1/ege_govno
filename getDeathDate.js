@@ -12,7 +12,7 @@ function getDeathDate() {
 }
 
 function getDeathReason() {
-  switch(getRandomInt(1, 8)) {
+  switch(getRandomInt(1, 9)) {
     case 1:
       return "подавившись слезами радости после результатов егэ";
     case 2:
